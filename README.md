@@ -5,6 +5,8 @@
 
 Hi, I'm Daniel, a programmer and technology enthusiast, currently programming in JavaScrip and Java, and I intend to learn a lot more over time. I study Information Systems at Nove de Julho University, and I am passionate about programming and technology and I intend to learn new programming languages ​​to keep up with the evolution of this area.
 
+- [Knowledge] - In Java, JavaScript, git, HTML, CSS, SQL, node js and more
+
 <br><a target="_blank" href="https://www.linkedin.com/in/daniel-silva-1a3209196/">
   <img align="left" alt="LinkdeIN" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
