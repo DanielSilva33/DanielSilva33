@@ -1,6 +1,6 @@
 ### hello world I'm Daniel! 👋
 
-<img style="height: 30px; width: 30px;" src="https://user-images.githubusercontent.com/51060912/93362110-fb2c2080-f81b-11ea-8057-ea35cd98e17f.png">
+<img src="https://user-images.githubusercontent.com/51060912/93362773-ca98b680-f81c-11ea-99fe-0d0d9585c2bc.png">
 
 
 <!-- **DanielSilva33/DanielSilva33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
