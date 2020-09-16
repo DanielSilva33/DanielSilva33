@@ -1,8 +1,5 @@
 ### hello world I'm Daniel! 👋
 
-<img src="https://user-images.githubusercontent.com/51060912/93362773-ca98b680-f81c-11ea-99fe-0d0d9585c2bc.png">
-
-
 <!-- **DanielSilva33/DanielSilva33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Hi, I'm Daniel, a programmer and technology enthusiast, currently programming in JavaScrip and Java, and I intend to learn a lot more over time. I study Information Systems at Nove de Julho University, and I am passionate about programming and technology and I intend to learn new programming languages ​​to keep up with the evolution of this area.
