@@ -1,4 +1,4 @@
-### hello world I'm Daniel! 👋
+### hello world, sou Daniel! 👋
 
 <!-- **DanielSilva33/DanielSilva33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
