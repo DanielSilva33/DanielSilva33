@@ -6,7 +6,7 @@ Olá, sou Daniel, programador e apaixonado por tecnologia, atualmente programand
 
 - [Conhecimentos] - Java, JavaScript, git, HTML, CSS, SQL e Node JS.
 
-<br><a target="_blank" href="https://www.linkedin.com/in/daniel-silva-1a3209196/">
+<br><a href="https://www.linkedin.com/in/daniel-silva-1a3209196/" target="_blank">
   <img align="left" alt="LinkdeIN" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511951160061">
