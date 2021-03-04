@@ -2,9 +2,20 @@
 
 <!-- **DanielSilva33/DanielSilva33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Olá, sou Daniel, programador e apaixonado por tecnologia, atualmente programando em JavaScrip e Java, e pretendo aprender muito mais com o tempo. Estudo Sistemas de Informação na Universidade Nove de Julho, sou apaixonado por programação e tecnologia e pretendo aprender novas linguagens de programação para acompanhar a evolução desta área.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador douglas">
 
-- [Conhecimentos] - Java, JavaScript, git, HTML, CSS, SQL e Node JS.
+<p align="left">
+  Olá meu nome é Daniel, sou desenvolvedor <strong>Back-end</strong> e <strong> Certificado na metodologia SCRUM</strong>. Estou disponível para novos desafios, estou cursando Sistemas de Informação na Universidade Nove de Julho, e sou apaixnado por tecnologia e programação.
+</p>
+
+<p align="left">
+  -> Habilidades: <strong>HTML, CSS, Java, JavaScript, Bootstrap, Node, Typescript, PostgreSQL.</strong>
+</p>
+
+<p align="left">
+  -> Ferramentas: <strong>VSCode, PhotoShop, Figma, GitHub.</strong>
+</p>
+
 
 <br><a href="https://www.linkedin.com/in/daniel-silva-1a3209196/" target="_blank">
   <img align="left" alt="LinkdeIN" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
