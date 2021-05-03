@@ -9,11 +9,7 @@
 </p>
 
 <p align="left">
-  -> Habilidades: <strong>HTML, CSS, Java, JavaScript, Bootstrap, Node, Typescript, PostgreSQL.</strong>
-</p>
-
-<p align="left">
-  -> Ferramentas: <strong>VSCode, PhotoShop, Figma, GitHub.</strong>
+  -> Habilidades: <strong>JavaScript, Node, Typescript, HTML, CSS, Java, Bootstrap, sql.</strong>
 </p>
 
 
