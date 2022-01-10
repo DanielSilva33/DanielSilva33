@@ -9,7 +9,11 @@
 </p>
 
 <p align="left">
-  -> Habilidades: <strong>JavaScript, Node, Typescript, HTML, CSS, Java, Bootstrap, sql.</strong>
+  -> Habilidades: <strong>JavaScript, Typescript, Node, Postgresql, MySql, HTML e CSS.</strong>
+</p>
+
+<p align="left">
+  -> Ferramentas: <strong>VS code, Insomnia, Git bash, Beekeeper, Docker Desktop e MySQL Workbench</strong>
 </p>
 
 
