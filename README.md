@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  -> Ferramentas: <strong>VS code, Insomnia, Git bash, Beekeeper, Docker Desktop e MySQL Workbench</strong>
+  -> Ferramentas: <strong>VS code, Insomnia, Git bash, Beekeeper, Docker Desktop e MySQL Workbench.</strong>
 </p>
 
 
