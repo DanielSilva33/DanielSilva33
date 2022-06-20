@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador douglas">
 
 <p align="left">
-  Olá meu nome é Daniel, sou desenvolvedor <strong>Back-end</strong> e <strong> Certificado na metodologia SCRUM</strong>. Estou disponível para novos desafios, estou cursando Sistemas de Informação na Universidade Nove de Julho, e sou apaixnado por tecnologia e programação.
+  Olá meu nome é Daniel, sou desenvolvedor <strong>Back-end</strong> e <strong> Certificado na metodologia SCRUM</strong>. Estou disponível para novos desafios, estou cursando Sistemas de Informação na Universidade Nove de Julho, e sou apaixonado por tecnologia e programação.
 </p>
 
 <p align="left">
