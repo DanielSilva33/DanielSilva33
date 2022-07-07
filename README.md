@@ -5,7 +5,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador douglas">
 
 <p align="left">
-  Apaixonado pelo universo da programação, atualmente estou focado em melhorar os meus conhecimentos em Backend(Javascript, typescrip e nodejs) e em Frontend(React, NextJS), disposto a entregar meu melhor nas minhas oportunidades. Cursando Sistemas da Informação na UNINOVE (8/8), onde pude aprender diversas áreas no mundo de desenvolvimento, atualmente no setor de Engenharia de TI no Grupo DPSP, atuando no desenvolvimento e melhoria continua do sistema, onde pude aprender sobre:
+  Apaixonado pelo universo da programação, atualmente estou focado em melhorar os meus conhecimentos em Backend(Javascript, typescrip e nodejs) e em Frontend(React, NextJS), disposto a entregar meu melhor nas minhas oportunidades. 
+
+  Cursando Sistemas da Informação na UNINOVE (8/8), onde pude aprender diversas áreas no mundo de desenvolvimento, atualmente no setor de Engenharia de TI no Grupo DPSP, atuando no desenvolvimento e melhoria continua do sistema, onde pude aprender sobre:
 </p>
 
 <p align="left">
