@@ -5,15 +5,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador douglas">
 
 <p align="left">
-  Olá meu nome é Daniel, sou desenvolvedor <strong>Back-end</strong> e <strong> Certificado na metodologia SCRUM</strong>. Estou disponível para novos desafios, estou cursando Sistemas de Informação na Universidade Nove de Julho, e sou apaixonado por tecnologia e programação.
+  Apaixonado pelo universo da programação, atualmente estou focado em melhorar os meus conhecimentos em Backend(Javascript, typescrip e nodejs) e em Frontend(React, NextJS), disposto a entregar meu melhor nas minhas oportunidades. Cursando Sistemas da Informação na UNINOVE (8/8), onde pude aprender diversas áreas no mundo de desenvolvimento, atualmente no setor de Engenharia de TI no Grupo DPSP, atuando no desenvolvimento e melhoria continua do sistema, onde pude aprender sobre:
 </p>
 
 <p align="left">
-  -> Habilidades: <strong>JavaScript, Typescript, Node, Postgresql, MySql, HTML e CSS.</strong>
+ <strong>JS/TS, NodeJS, Mongodb, Redis, Postgresql, MySQL, DevOps, Scrum, Metodologias ágeis.</strong>
 </p>
 
 <p align="left">
-  -> Ferramentas: <strong>VS code, Insomnia, Git bash, Beekeeper, Docker Desktop e MySQL Workbench.</strong>
+  -> Ferramentas: <strong>VScode, Insomnia, Postman, Git bash, Beekeeper, Docker e MySQL Workbench.</strong>
 </p>
 
 
