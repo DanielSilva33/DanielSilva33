@@ -5,17 +5,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador douglas">
 
 <p align="left">
-  Apaixonado pelo universo da programação, atualmente estou focado em melhorar os meus conhecimentos em Backend(Javascript, typescrip e nodejs) e em Frontend(React, NextJS), disposto a entregar meu melhor nas minhas oportunidades. 
+Apaixonado pelo universo da programação, bacharel em Sistemas da Informação, estou disposto a entregar o melhor em minhas oportunidades. Atuando como Engenheiro de Software e desenvolvedor Full Stack, pensando sempre nas melhores práticas do desenvolvimento.
 
-  Atualmente no setor de Engenharia de TI no Grupo DPSP, atuando no desenvolvimento e melhoria continua do sistema, onde pude aprender sobre:
-</p>
-
+Conhecimentos:
+  - NodeJs;
+  - ReactJs;
+  - JS | TS;
+  - Mongodb;
+  - MySQL;
+  - Redis;
+  - AWS;
+  - Scrum;
+  - Metodologias ágeis.
+  
 <p align="left">
- <strong>JS/TS, NodeJS, Mongodb, Redis, Postgresql, MySQL, DevOps, Scrum, Metodologias ágeis.</strong>
-</p>
-
-<p align="left">
-  -> Ferramentas: <strong>VScode, Insomnia, Postman, Git bash, Beekeeper, Docker e MySQL Workbench.</strong>
+Ferramentas: <strong>VScode, Insomnia, Postman, Git bash, Beekeeper, Docker e MySQL Workbench.</strong>
 </p>
 
 
