@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Apaixonado pelo universo da programação, Especialista de Engenharia de Software, estou disposto a entregar o melhor em minhas oportunidades. Atuando como Engenheiro de Software e desenvolvedor Full Stack, pensando sempre nas melhores práticas do desenvolvimento.
+Apaixonado pelo universo da programação, Especialista em Engenharia de Software, estou disposto a entregar o melhor em minhas oportunidades. Atuando como Engenheiro de Software e desenvolvedor Full Stack, pensando sempre nas melhores práticas do desenvolvimento.
 </p>
 
 ## Habilidades
